@@ -44,17 +44,14 @@ I thrive at the intersection of science, analytics, and technology — applying 
 - **Lululemon Industry Project** 🏋️  
   Led an award-winning data-driven solution to improve **customer engagement** through strategic insights from app usage data.
   
-- **NLP Project-Hotel Review** 🏋️  
-  Tasked with helping Hotel Management Inc. better understand what qualities of a hotel stay contribute to greater customer satisfaction and higher ratings
-  
-- **NLP Project-Hotel Review** 🏋️  
-  Tasked with helping Hotel Management Inc. better understand what qualities of a hotel stay contribute to greater customer satisfaction and higher ratings
-  
-- **Statistics & Public Health** 🏋️  
-  Studied the effect of West Nile Virus by doing statistical analysis, EDA and data Wrangling
+- 🏨 **NLP Project – Hotel Reviews**  
+  Analyzed thousands of hotel reviews to identify factors driving **customer satisfaction** and higher ratings using **NLP techniques**.
 
-  - **Air Traffic Control* 🏋️  
-  Used SQL queries & Tableau to study different relations about the air traffic in North America and generated insights
+- 📊 **Statistics & Public Health – West Nile Virus**  
+  Conducted **exploratory data analysis, data wrangling, and statistical modeling** to study the impact and spread of West Nile Virus.
+
+- ✈️ **Air Traffic Control Analysis**  
+  Leveraged **SQL queries and Tableau** to uncover insights on flight patterns and air traffic trends across North America.
   
 ---
 
