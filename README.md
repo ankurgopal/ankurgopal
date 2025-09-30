@@ -11,7 +11,7 @@
 I’m a Data Scientist with a strong foundation in **Chemical Engineering** and **Analytical Science** (9+ years in regulated labs), now pivoting into advanced **data science and machine learning**.  
 I thrive at the intersection of science, analytics, and technology — applying rigorous problem-solving skills to extract insights, build predictive models, and deliver business value.  
 
-🔹 Currently completing a **Data Science Diploma at BrainStation** (2025).  
+🔹 Hold a **Data Science Diploma at BrainStation** (2025).  
 🔹 Hands-on experience with **SQL, Python, Tableau, Machine Learning, and Cloud tools**.  
 🔹 Background includes **mass spectrometry, method development, and lab operations leadership**.  
 
@@ -42,8 +42,20 @@ I thrive at the intersection of science, analytics, and technology — applying 
   Built ML models to predict diabetes using the BRFSS dataset (229K+ samples), supporting early healthcare intervention.  
 
 - **Lululemon Industry Project** 🏋️  
-  Led an award-winning data-driven solution to improve **customer engagement** through strategic insights from app usage data.  
+  Led an award-winning data-driven solution to improve **customer engagement** through strategic insights from app usage data.
+  
+- **NLP Project-Hotel Review** 🏋️  
+  Tasked with helping Hotel Management Inc. better understand what qualities of a hotel stay contribute to greater customer satisfaction and higher ratings
+  
+- **NLP Project-Hotel Review** 🏋️  
+  Tasked with helping Hotel Management Inc. better understand what qualities of a hotel stay contribute to greater customer satisfaction and higher ratings
+  
+- **Statistics & Public Health** 🏋️  
+  Studied the effect of West Nile Virus by doing statistical analysis, EDA and data Wrangling
 
+  - **Air Traffic Control* 🏋️  
+  Used SQL queries & Tableau to study different relations about the air traffic in North America and generated insights
+  
 ---
 
 ## 🛠️ Skills
